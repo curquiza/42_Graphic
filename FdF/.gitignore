@@ -1,0 +1,7 @@
+libft/libft.a
+libft/objs/*.o
+a.out
+fdf
+objs/*.o
+minilibx/*.a
+minilibx/*.o
